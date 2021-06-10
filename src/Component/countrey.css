@@ -1,0 +1,33 @@
+.country{
+    padding: 50px;
+    background-color: rgb(90, 122, 122);
+}
+.country .flag img{
+    height: 300px;
+    width: 400px;
+}
+.btn-light{
+    margin-bottom: 30px;
+    display: inline-block;
+}
+.country article .country-details div{
+    margin: 30px 0;
+  }
+  .all-countries{
+      background-color: rgb(122, 138, 132);
+  }
+.all-countries .content-table td {
+padding: 12px 15px;
+box-shadow: aquamarine;
+}
+.all-countries .content-table tr{
+    border-bottom: 1px solid #dddddd;
+}
+.table-div td{
+    padding: 12px 15px;
+
+}
+.table-div{
+    background-color: rgb(122, 138, 132);
+}
+ 
